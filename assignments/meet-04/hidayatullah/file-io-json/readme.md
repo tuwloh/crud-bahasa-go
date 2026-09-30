@@ -3,30 +3,30 @@
 #### Nama: [hidayatullah]
 
 - lihat data
-![lihat data](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/lihatkatalog.png)
-link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/lihatkatalog.png
+![lihat data](https://github.com/tuwloh/crud-bahasa-go/blob/main/assignments/meet-04/hidayatullah/file-io-json/assets/lihatdata.png)
+link: https://github.com/tuwloh/crud-bahasa-go/blob/main/assignments/meet-04/hidayatullah/file-io-json/assets/lihatdata.png
 
 - tambah data
-![tambah data](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/checkoutstoksudahberkurang.png)
-link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/checkoutstoksudahberkurang.png
+![tambah data](https://github.com/tuwloh/crud-bahasa-go/blob/main/assignments/meet-04/hidayatullah/file-io-json/assets/tambahdata.png)
+link: https://github.com/tuwloh/crud-bahasa-go/blob/main/assignments/meet-04/hidayatullah/file-io-json/assets/tambahdata.png
 
 - ubah data
-![ubah data](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/stokhabis.png)
-link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/stokhabis.png
+![ubah data](https://github.com/tuwloh/crud-bahasa-go/blob/main/assignments/meet-04/hidayatullah/file-io-json/assets/ubahdata.png)
+link: https://github.com/tuwloh/crud-bahasa-go/blob/main/assignments/meet-04/hidayatullah/file-io-json/assets/ubahdata.png
 
 - sintak untuk membuat file go.mod
-![sintak untuk membuat file go.mod](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/cdterminalkecli-kasir.png)
-link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/cdterminalkecli-kasir.png
+![sintak untuk membuat file go.mod](https://github.com/tuwloh/crud-bahasa-go/blob/main/assignments/meet-04/hidayatullah/file-io-json/assets/sintakbuatfilegomod.png)
+link: https://github.com/tuwloh/crud-bahasa-go/blob/main/assignments/meet-04/hidayatullah/file-io-json/assets/sintakbuatfilegomod.png
 
 - melihat perubahan harga baru
-![melihat perubahan harga baru](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/cdterminalkeassignments.png)
-link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/cdterminalkeassignments.png
+![melihat perubahan harga baru](https://github.com/tuwloh/crud-bahasa-go/blob/main/assignments/meet-04/hidayatullah/file-io-json/assets/lihathargabaru.png)
+link: https://github.com/tuwloh/crud-bahasa-go/blob/main/assignments/meet-04/hidayatullah/file-io-json/assets/lihathargabaru.png
 
 - hapus data
-![hapus data](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/tambahbarangsusu.png)
-link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/tambahbarangsusu.png
+![hapus data](https://github.com/tuwloh/crud-bahasa-go/blob/main/assignments/meet-04/hidayatullah/file-io-json/assets/hapusdata.png)
+link: https://github.com/tuwloh/crud-bahasa-go/blob/main/assignments/meet-04/hidayatullah/file-io-json/assets/hapusdata.png
 
 - cari data
-![cari data](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/tambahkekeranjangsusu.png)
-link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/tambahkekeranjangsusu.png
+![cari data](https://github.com/tuwloh/crud-bahasa-go/blob/main/assignments/meet-04/hidayatullah/file-io-json/assets/caridata.png)
+link: https://github.com/tuwloh/crud-bahasa-go/blob/main/assignments/meet-04/hidayatullah/file-io-json/assets/caridata.png
 
