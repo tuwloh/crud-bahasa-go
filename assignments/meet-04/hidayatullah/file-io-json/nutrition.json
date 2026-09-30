@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Putih",
+    "category": "Makanan Pokok",
+    "price": 5000,
+    "is_halal": true,
+    "expired_at": "2026-10-02T00:00:00Z",
+    "nutrition": {
+      "calories": 178,
+      "proteins": 2.1,
+      "fat": 0.1,
+      "carbohydrate": 40.6
+    },
+    "ingredients": [
+      {
+        "name": "Beras Putih",
+        "amount": "100g"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Nasi Goreng",
+    "category": "Makanan Utama",
+    "price": 24000,
+    "is_halal": true,
+    "expired_at": "2026-10-02T00:00:00Z",
+    "nutrition": {
+      "calories": 276,
+      "proteins": 3.2,
+      "fat": 3.2,
+      "carbohydrate": 30.2
+    },
+    "ingredients": [
+      {
+        "name": "Kecap Manis",
+        "amount": "1 sdm"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Nasi Uduk",
+    "category": "Makanan Pokok",
+    "price": 10000,
+    "is_halal": true,
+    "expired_at": "2026-10-02T00:00:00Z",
+    "nutrition": {
+      "calories": 253,
+      "proteins": 4.3,
+      "fat": 21,
+      "carbohydrate": 11.7
+    },
+    "ingredients": [
+      {
+        "name": "Daun Pandan",
+        "amount": "1 lembar"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ayam Goreng",
+    "category": "Lauk Pauk",
+    "price": 14000,
+    "is_halal": true,
+    "expired_at": "2026-10-03T00:00:00Z",
+    "nutrition": {
+      "calories": 287,
+      "proteins": 31,
+      "fat": 15.7,
+      "carbohydrate": 1.7
+    },
+    "ingredients": [
+      {
+        "name": "Ketumbar",
+        "amount": "1 sdt"
+      },
+      {
+        "name": "Minyak Goreng",
+        "amount": "20ml"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Ayam Taliwang",
+    "category": "Lauk Pauk",
+    "price": 28000,
+    "is_halal": true,
+    "expired_at": "2026-10-03T00:00:00Z",
+    "nutrition": {
+      "calories": 264,
+      "proteins": 18.2,
+      "fat": 20.1,
+      "carbohydrate": 2.7
+    },
+    "ingredients": [
+      {
+        "name": "Terasi Bakar",
+        "amount": "1/2 sdt"
+      },
+      {
+        "name": "Gula Merah",
+        "amount": "1 sdt"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Rendang Daging Sapi",
+    "category": "Lauk Pauk",
+    "price": 15000,
+    "is_halal": true,
+    "expired_at": "2026-10-07T00:00:00Z",
+    "nutrition": {
+      "calories": 193,
+      "proteins": 22.6,
+      "fat": 7.9,
+      "carbohydrate": 7.8
+    },
+    "ingredients": [
+      {
+        "name": "Lengkuas",
+        "amount": "1 ruas"
+      },
+      {
+        "name": "Serai",
+        "amount": "1 batang"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Sate Ayam",
+    "category": "Lauk Pauk",
+    "price": 0,
+    "is_halal": true,
+    "expired_at": "2026-10-02T00:00:00Z",
+    "nutrition": {
+      "calories": 215,
+      "proteins": 24.5,
+      "fat": 11.2,
+      "carbohydrate": 4.8
+    },
+    "ingredients": [
+      {
+        "name": "Kecap Manis",
+        "amount": "2 sdm"
+      },
+      {
+        "name": "Bawang Merah",
+        "amount": "2 siung"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Soto Ayam",
+    "category": "Makanan Utama",
+    "price": 0,
+    "is_halal": true,
+    "expired_at": "2026-10-02T00:00:00Z",
+    "nutrition": {
+      "calories": 135,
+      "proteins": 12.4,
+      "fat": 6.8,
+      "carbohydrate": 5.9
+    },
+    "ingredients": [
+      {
+        "name": "Tauge",
+        "amount": "30g"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Tempe Goreng",
+    "category": "Lauk Pauk",
+    "price": 0,
+    "is_halal": true,
+    "expired_at": "2026-10-04T00:00:00Z",
+    "nutrition": {
+      "calories": 118,
+      "proteins": 10.5,
+      "fat": 7.1,
+      "carbohydrate": 6.2
+    },
+    "ingredients": [
+      {
+        "name": "Ketumbar",
+        "amount": "1/2 sdt"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Tahu Goreng",
+    "category": "Lauk Pauk",
+    "price": 0,
+    "is_halal": true,
+    "expired_at": "2026-10-04T00:00:00Z",
+    "nutrition": {
+      "calories": 115,
+      "proteins": 9.7,
+      "fat": 8.5,
+      "carbohydrate": 2.5
+    },
+    "ingredients": [
+      {
+        "name": "Garam",
+        "amount": "1/2 sdt"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Telur Dadar",
+    "category": "Lauk Pauk",
+    "price": 0,
+    "is_halal": true,
+    "expired_at": "2026-10-02T00:00:00Z",
+    "nutrition": {
+      "calories": 153,
+      "proteins": 10.2,
+      "fat": 11.5,
+      "carbohydrate": 1.1
+    },
+    "ingredients": [
+      {
+        "name": "Garam",
+        "amount": "1/4 sdt"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Gado-gado",
+    "category": "Sayuran",
+    "price": 0,
+    "is_halal": true,
+    "expired_at": "2026-10-02T00:00:00Z",
+    "nutrition": {
+      "calories": 137,
+      "proteins": 6.1,
+      "fat": 3.2,
+      "carbohydrate": 21
+    },
+    "ingredients": [
+      {
+        "name": "Bumbu Kacang",
+        "amount": "60g"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Pempek Kapal Selam",
+    "category": "Makanan Khas",
+    "price": 0,
+    "is_halal": true,
+    "expired_at": "2026-10-05T00:00:00Z",
+    "nutrition": {
+      "calories": 152,
+      "proteins": 4.5,
+      "fat": 2.3,
+      "carbohydrate": 28.2
+    },
+    "ingredients": [
+      {
+        "name": "Tepung Sagu",
+        "amount": "80g"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Sate Sapi",
+    "category": "Lauk Pauk",
+    "price": 28000,
+    "is_halal": true,
+    "expired_at": "2026-10-07T00:00:00Z",
+    "nutrition": {
+      "calories": 300,
+      "proteins": 20,
+      "fat": 20,
+      "carbohydrate": 1.4
+    },
+    "ingredients": [
+      {
+        "name": "daging sapi",
+        "amount": "454g"
+      },
+      {
+        "name": "lengkuas",
+        "amount": "3cm"
+      },
+      {
+        "name": "jahe",
+        "amount": "2cm"
+      },
+      {
+        "name": "ketumbar",
+        "amount": "1sdm"
+      }
+    ]
+  }
+]
